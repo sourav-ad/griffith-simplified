@@ -8,7 +8,7 @@ translator: "Based on Ralph T.H. Griffith (1896)"
 layout: hymn
 ---
 
-# Rigveda 1.1.7 — Hymn to Vayu
+# Rigveda 1.2.1 — Hymn to Vayu
 
 ## Simple English Rendering
 Come to us, beautiful Vayu! We have prepared this Soma drink for you. Drink this Soma, and listen to our calls and prayers.  
