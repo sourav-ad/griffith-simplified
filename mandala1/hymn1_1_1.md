@@ -1,15 +1,16 @@
 ---
-title: "Rigveda 1.1 — Hymn to Agni"
+title: "Rigveda 1.1.1 — Hymn to Agni"
 mandala: 1
 hymn: 1
+verse: 1
 deity: "Agni"
 translator: "Based on Ralph T.H. Griffith (1896)"
 layout: hymn
 ---
 
-# Rigveda 1.1 — Hymn to Agni
+# Rigveda 1.1.1 — Hymn to Agni
 
-## Modern-English Rendering
+## Simple English Rendering
 I sing the praises to Agni, the chosen divine priest, in charge of our sacred rites,
 the bringer of abundance.
 
