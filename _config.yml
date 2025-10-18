@@ -1,0 +1,10 @@
+theme: minima
+title: "Rigveda in Simple English"
+description: "Simple English rendering of the Rigveda based on Ralph T.H. Griffith’s public domain translation."
+markdown: GFM
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
