@@ -5,3 +5,8 @@ Verses:
 - [Verse 2](verse2)
 - [Verse 3](verse3)
 - [Verse 4](verse4)
+- [Verse 5](verse5)
+- [Verse 6](verse6)
+- [Verse 7](verse7)
+- [Verse 8](verse8)
+- [Verse 9](verse9)
