@@ -1,23 +1,23 @@
 ---
-title: "Rigveda 1.1.9 — Hymn to Agni"
+title: "Rigveda 1.2.1 — Hymn to Vayu"
 mandala: 1
-hymn: 1
-verse: 9
-deity: "Agni"
+hymn: 2
+verse: 1
+deity: "Vayu"
 translator: "Based on Ralph T.H. Griffith (1896)"
 layout: hymn
 ---
 
-# Rigveda 1.1.9 — Hymn to Agni
+# Rigveda 1.1.7 — Hymn to Vayu
 
 ## Simple English Rendering
-Be approachable and helpful for us, like a father is helpful to his son. Agni, be with us when we are in trouble.
+Come to us, beautiful Vayu! We have prepared this Soma drink for you. Drink this Soma, and listen to our calls and prayers.  
 
 <details>
   <summary><strong>Griffith’s 1896 Translation</strong></summary>
 
-Be to us easy of approach, even as a father to his son:
-Agni, be with us for our weal.
+BEAUTIFUL Vāyu, come, for thee these Soma drops have been prepared:
+Drink of them, hearken to our call.
 
 </details>
 

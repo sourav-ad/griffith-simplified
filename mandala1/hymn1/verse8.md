@@ -4,7 +4,7 @@ mandala: 1
 hymn: 1
 verse: 8
 deity: "Agni"
-translator: "Based on Ralph T.H. Griffith (1898)"
+translator: "Based on Ralph T.H. Griffith (1896)"
 layout: hymn
 ---
 
