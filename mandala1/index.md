@@ -4,3 +4,4 @@ Select a hymn:
 
 - [Hymn 1 – To Agni](hymn1/)
 - [Hymn 2 – To Vayu](hymn2/)
+- [Hymn 3 – To Asvins](hymn3/)
