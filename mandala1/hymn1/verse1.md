@@ -12,7 +12,7 @@ layout: hymn
 
 ## Simple English Rendering
 I sing the praises to Agni, the chosen divine priest, in charge of our sacred rites,
-the bringer of abundance.
+the one who grants us plenty of material wealth.
 
 <details>
   <summary><strong>Griffith’s 1896 Translation</strong></summary>
